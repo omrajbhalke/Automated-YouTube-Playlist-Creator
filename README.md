@@ -162,7 +162,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-* **Your Name** – [GitHub](https://github.com/yourusername)
+* **Omraj Bhalke** – [GitHub](https://github.com/omrajbhalke)
 
 ---
 
