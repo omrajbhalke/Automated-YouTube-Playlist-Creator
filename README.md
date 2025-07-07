@@ -1,4 +1,4 @@
-# 🎵 Automated YouTube Playlist Creator
+# 🎵 Automated YouTube Playlist Creator from Local Music Library
 
 A Python-based tool that automates the process of creating a YouTube playlist using song titles from your local music folder. It uses the YouTube Data API to search songs and add them to a new playlist on your YouTube account.
 
